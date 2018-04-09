@@ -1,0 +1,10 @@
+c:\users\ms_dev_fim\documents\visual studio 2017\Projects\testConsole\testConsole\bin\Debug\testConsole.exe.config
+c:\users\ms_dev_fim\documents\visual studio 2017\Projects\testConsole\testConsole\bin\Debug\testConsole.exe
+c:\users\ms_dev_fim\documents\visual studio 2017\Projects\testConsole\testConsole\bin\Debug\testConsole.pdb
+c:\users\ms_dev_fim\documents\visual studio 2017\Projects\testConsole\testConsole\obj\Debug\testConsole.csprojResolveAssemblyReference.cache
+c:\users\ms_dev_fim\documents\visual studio 2017\Projects\testConsole\testConsole\obj\Debug\testConsole.exe
+c:\users\ms_dev_fim\documents\visual studio 2017\Projects\testConsole\testConsole\obj\Debug\testConsole.pdb
+C:\Users\ms_dev_fim\Documents\Visual Studio 2017\Projects\testConsole\testConsole\bin\Debug\EntityFramework.dll
+C:\Users\ms_dev_fim\Documents\Visual Studio 2017\Projects\testConsole\testConsole\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ms_dev_fim\Documents\Visual Studio 2017\Projects\testConsole\testConsole\bin\Debug\EntityFramework.xml
+C:\Users\ms_dev_fim\Documents\Visual Studio 2017\Projects\testConsole\testConsole\bin\Debug\EntityFramework.SqlServer.xml
